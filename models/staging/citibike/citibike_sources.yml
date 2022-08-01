@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: citibike
+    database: citibike
+    schema: public
+    tables:
+      - name: trips
